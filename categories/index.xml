@@ -3,5 +3,6 @@
         <title>Categories - Category - </title>
         <link>https://devopsand.coffee/categories/</link>
         <description>Categories - Category - </description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://devopsand.coffee/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kyle@devopsand.coffee (Kyle Walters)</managingEditor>
+            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster><atom:link href="https://devopsand.coffee/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

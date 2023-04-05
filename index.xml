@@ -2,8 +2,9 @@
     <channel>
         <title></title>
         <link>https://devopsand.coffee/</link>
-        <description>A Dev Ops blog by Kyle Walters</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <description>A DevOps blog by Kyle Walters</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kyle@devopsand.coffee (Kyle Walters)</managingEditor>
+            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster>
             <atom:link href="https://devopsand.coffee/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

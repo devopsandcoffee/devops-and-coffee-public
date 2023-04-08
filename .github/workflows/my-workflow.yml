@@ -17,4 +17,8 @@ jobs:
           service_account: '${{ secrets.GCP_SA_EMAIL }}'
           credentials_json: '${{ secrets.GCP_SA_KEY }}'
       - uses: google-github-actions/setup-gcloud@v0
+<<<<<<< HEAD
       - run: gsutil -m rsync -d -c -r ./ gs://devopsand.coffee
+=======
+      - run: gsutil -m rsync -d -c -r ./ gs://my-gcs-bucket
+>>>>>>> main

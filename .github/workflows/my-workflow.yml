@@ -1,0 +1,10 @@
+name: Website - Production # name of your workflow
+on:
+  push:
+    branches:
+      - master # Deployment will be triggered when we will push to the master branch
+jobs:
+  build:
+    name: Build & Deploy # name of the job
+    runs-on: ubuntu-latest # the runner in which the job will be executed
+    steps:

@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>DevOps and Coffee</title>
-        <link>https://devopsand.coffee/</link>
-        <description>A DevOps blog by Kyle Walters</description>
+        <title>All Posts - DevOps and Coffee</title>
+        <link>https://devopsand.coffee/posts/</link>
+        <description>All Posts | DevOps and Coffee</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kyle@devopsand.coffee (Kyle Walters)</managingEditor>
-            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster><lastBuildDate>Thu, 06 Apr 2023 23:24:20 -0400</lastBuildDate>
-            <atom:link href="https://devopsand.coffee/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster><lastBuildDate>Thu, 06 Apr 2023 23:24:20 -0400</lastBuildDate><atom:link href="https://devopsand.coffee/posts/" rel="self" type="application/rss+xml" /><item>
     <title>About Me</title>
     <link>https://devopsand.coffee/posts/about-me/</link>
     <pubDate>Thu, 06 Apr 2023 23:24:20 -0400</pubDate>

@@ -18,3 +18,4 @@ jobs:
           credentials_json: '${{ secrets.GCP_SA_KEY }}'
       - uses: google-github-actions/setup-gcloud@v0
       - run: gsutil -m rsync -x "gha-creds.*\.json$|^.*\.git.*$|.*\.github.*$" -d -c -r public/ gs://devopsand.coffee
+        #comment

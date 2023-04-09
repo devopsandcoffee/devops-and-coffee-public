@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://devopsand.coffee/posts/complete-transparency/</loc><lastmod>2023-04-09T04:32:19-04:00</lastmod></url><url>
+            <loc>https://devopsand.coffee/</loc><lastmod>2023-04-09T04:32:19-04:00</lastmod></url><url>
+            <loc>https://devopsand.coffee/posts/</loc><lastmod>2023-04-09T04:32:19-04:00</lastmod></url><url>
             <loc>https://devopsand.coffee/posts/about-me/</loc><lastmod>2023-04-06T23:24:20-04:00</lastmod></url><url>
-            <loc>https://devopsand.coffee/</loc><lastmod>2023-04-06T23:24:20-04:00</lastmod></url><url>
-            <loc>https://devopsand.coffee/posts/</loc><lastmod>2023-04-06T23:24:20-04:00</lastmod></url><url>
             <loc>https://devopsand.coffee/categories/</loc></url><url>
             <loc>https://devopsand.coffee/tags/</loc></url></urlset>

@@ -4,13 +4,24 @@
         <link>https://devopsand.coffee/posts/</link>
         <description>All Posts | DevOps and Coffee</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kyle@devopsand.coffee (Kyle Walters)</managingEditor>
-            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster><lastBuildDate>Thu, 06 Apr 2023 23:24:20 -0400</lastBuildDate><atom:link href="https://devopsand.coffee/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kyle@devopsand.coffee (Kyle Walters)</webMaster><lastBuildDate>Sun, 09 Apr 2023 04:32:19 -0400</lastBuildDate><atom:link href="https://devopsand.coffee/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Complete Transparency</title>
+    <link>https://devopsand.coffee/posts/complete-transparency/</link>
+    <pubDate>Sun, 09 Apr 2023 04:32:19 -0400</pubDate>
+    <author>Kyle Walters</author>
+    <guid>https://devopsand.coffee/posts/complete-transparency/</guid>
+    <description><![CDATA[Target Audience This blog article is intended for anyone who would like to understand exactly what technology and infrastructure this blog leverages. This blog post would be useful for someone who would like to start a similar blog or any privacy-conscience people that would like to know exactly what visibilty third-parties have into your visits to this website.
+Technology and Infrastructure leveraged by this website. This website leverages
+Hugo blog CMS software which generates a static website.]]></description>
+</item>
+<item>
     <title>About Me</title>
     <link>https://devopsand.coffee/posts/about-me/</link>
     <pubDate>Thu, 06 Apr 2023 23:24:20 -0400</pubDate>
     <author>Kyle Walters</author>
     <guid>https://devopsand.coffee/posts/about-me/</guid>
-    <description><![CDATA[Hobbies &amp; Interests Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></description>
+    <description><![CDATA[Introduction Hi, my name is Kyle Walters and I currently work in Cloud Operations. I am working to make the transition into being a Devops engineer. I created this blog to document the time and effrot I allocate towards improving my skills to be desirable to future employers for Devops-related roles.
+Hobbies &amp; Interests Linux Security Competitions (CTFs) Coffee Cloud Career Currently, my goal is to make a transition into a Devops role.]]></description>
 </item>
 </channel>
 </rss>
